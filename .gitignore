@@ -1,3 +1,7 @@
+*~
+*zip
+*.nii.gz
+
 # History files
 .Rhistory
 .Rapp.history
